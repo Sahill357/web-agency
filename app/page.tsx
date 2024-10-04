@@ -395,7 +395,8 @@ export default function Home() {
                       </div>
                       <div className="content-right">
                         <div className="project-thumb">
-                          <img src="assets/img/project/project-1.png" alt />
+                        <img src="assets/img/project/project-1.png" alt="Project thumbnail" />
+
                         </div>
                       </div>
                     </div>
@@ -423,7 +424,7 @@ export default function Home() {
                       </div>
                       <div className="content-right">
                         <div className="project-thumb">
-                          <img src="assets/img/project/project-1.png" alt />
+                          <img src="assets/img/project/project-1.png" alt="Project thumbnail"/>
                         </div>
                       </div>
                     </div>
@@ -451,7 +452,7 @@ export default function Home() {
                       </div>
                       <div className="content-right">
                         <div className="project-thumb">
-                          <img src="assets/img/project/project-1.png" alt />
+                          <img src="assets/img/project/project-1.png" alt="Project thumbnail" />
                         </div>
                       </div>
                     </div>
@@ -479,7 +480,7 @@ export default function Home() {
                       </div>
                       <div className="content-right">
                         <div className="project-thumb">
-                          <img src="assets/img/project/project-1.png" alt />
+                          <img src="assets/img/project/project-1.png" alt="Project thumbnail" />
                         </div>
                       </div>
                     </div>
@@ -685,12 +686,13 @@ export default function Home() {
                   </form>
                 </div>
                 <div className="form-check form-item">
-                  <input className="form-check-input" type="checkbox" defaultValue id="man" />
-                  <label className="form-check-label" htmlFor="man">
-                    I’m okay with getting emails and having
-                    that tracked to improve my experience
-                  </label>
-                </div>
+  <input className="form-check-input" type="checkbox" id="man" />
+  <label className="form-check-label" htmlFor="man">
+    I’m okay with getting emails and having
+    that tracked to improve my experience
+  </label>
+</div>
+
               </div>
             </div>
           </div>
