@@ -43,7 +43,7 @@ export default function RootLayout({
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   
   {/* Site Title */}
-  <title>Runok - Web Agency HTML5 Template</title>
+  <title>Runok - Web Agency </title>
   {/* Place favicon.ico in the root directory */}
   <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.png" />
   {/* CSS here */}
